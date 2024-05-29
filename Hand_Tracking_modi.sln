@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultraleap.Tracking.Core.Editor", "Ultraleap.Tracking.Core.Editor.csproj", "{de653a17-ad7d-15e2-6822-148921a437bf}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultraleap.Tracking.Core.Editor.Tests", "Ultraleap.Tracking.Core.Editor.Tests.csproj", "{08ff602a-c8df-cec8-4b2c-ce35de08b305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapMotion.LeapCSharp", "LeapMotion.LeapCSharp.csproj", "{5e64d38a-8482-a51e-9ad0-818ee86a9a57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{b27ab6b7-532c-48fe-921c-6dbd0c50eda6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVR", "SteamVR.csproj", "{b666c71d-bde8-f4a5-5c95-fe725dae1d7c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVR_Editor", "SteamVR_Editor.csproj", "{ff463f4e-0d2a-2ede-8366-26e86cb0281e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVR_Input_Editor", "SteamVR_Input_Editor.csproj", "{1cf10036-008d-695f-f048-a2552ff83a88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultraleap.Tracking.OpenXR.Editor", "Ultraleap.Tracking.OpenXR.Editor.csproj", "{b17e34d2-4337-a1e3-972c-81c9e1b02f93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultraleap.Tracking.Core", "Ultraleap.Tracking.Core.csproj", "{1effb830-8277-1960-91bf-a6f59d706804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultraleap.Tracking.InteractionEngine", "Ultraleap.Tracking.InteractionEngine.csproj", "{d87c9682-e36b-0579-460f-3593211ac8fc}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultraleap.Tracking.Hands", "Ultraleap.Tracking.Hands.csproj", "{df0c9574-e219-b5cc-1119-db1621ca26e8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVR_Actions", "SteamVR_Actions.csproj", "{caf01430-60e8-ddf4-1570-c18fc1ac85db}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultraleap.Tracking.OpenXR", "Ultraleap.Tracking.OpenXR.csproj", "{479d2c56-d859-075f-c5dd-c265275cee41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultraleap.Tracking.InteractionEngine.Editor", "Ultraleap.Tracking.InteractionEngine.Editor.csproj", "{6f5a5f5e-b1b3-cfad-bccb-1436232d03fe}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{0946397b-dfab-dd62-0ebc-52b073f96b6f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultraleap.Tracking.Hands.Editor", "Ultraleap.Tracking.Hands.Editor.csproj", "{ad22eece-1737-a9ac-002b-0a6ade252185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVR_Windows_EditorHelper", "SteamVR_Windows_EditorHelper.csproj", "{a1ca8ab5-3a25-5b39-b6c6-ba1b40a00b32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{de653a17-ad7d-15e2-6822-148921a437bf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{de653a17-ad7d-15e2-6822-148921a437bf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08ff602a-c8df-cec8-4b2c-ce35de08b305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08ff602a-c8df-cec8-4b2c-ce35de08b305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5e64d38a-8482-a51e-9ad0-818ee86a9a57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5e64d38a-8482-a51e-9ad0-818ee86a9a57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b27ab6b7-532c-48fe-921c-6dbd0c50eda6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b27ab6b7-532c-48fe-921c-6dbd0c50eda6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b666c71d-bde8-f4a5-5c95-fe725dae1d7c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b666c71d-bde8-f4a5-5c95-fe725dae1d7c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ff463f4e-0d2a-2ede-8366-26e86cb0281e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ff463f4e-0d2a-2ede-8366-26e86cb0281e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1cf10036-008d-695f-f048-a2552ff83a88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1cf10036-008d-695f-f048-a2552ff83a88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b17e34d2-4337-a1e3-972c-81c9e1b02f93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b17e34d2-4337-a1e3-972c-81c9e1b02f93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1effb830-8277-1960-91bf-a6f59d706804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1effb830-8277-1960-91bf-a6f59d706804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d87c9682-e36b-0579-460f-3593211ac8fc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d87c9682-e36b-0579-460f-3593211ac8fc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{df0c9574-e219-b5cc-1119-db1621ca26e8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{df0c9574-e219-b5cc-1119-db1621ca26e8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{caf01430-60e8-ddf4-1570-c18fc1ac85db}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{caf01430-60e8-ddf4-1570-c18fc1ac85db}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479d2c56-d859-075f-c5dd-c265275cee41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479d2c56-d859-075f-c5dd-c265275cee41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6f5a5f5e-b1b3-cfad-bccb-1436232d03fe}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6f5a5f5e-b1b3-cfad-bccb-1436232d03fe}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0946397b-dfab-dd62-0ebc-52b073f96b6f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0946397b-dfab-dd62-0ebc-52b073f96b6f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ad22eece-1737-a9ac-002b-0a6ade252185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ad22eece-1737-a9ac-002b-0a6ade252185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a1ca8ab5-3a25-5b39-b6c6-ba1b40a00b32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a1ca8ab5-3a25-5b39-b6c6-ba1b40a00b32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
